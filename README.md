@@ -48,32 +48,6 @@ Google Maps API: For all mapping features, location picking, and visualizations.
 
 Chart.js: For visualizing crime data distribution on the dashboard.
 
-📸 Screenshots
-(You can add screenshots of your application here. Below are placeholder examples.)
-
-Dashboard
-
-Report a Crime
-
-Live Crime Map
-
-`
-
-`
-
-``
-
-My Alert Zones
-
-Members & Chat
-
-Profile Page
-
-`
-
-`
-
-``
 
 🛠️ Setup and Installation
 Follow these steps to get the project running on your local machine.
