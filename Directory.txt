@@ -1,0 +1,22 @@
+/crime-reporting-app
+    /assets
+        /css (compiled Tailwind)
+        /js
+        /images
+    /includes
+        db.php (database connection)
+        functions.php
+        auth.php
+    /uploads (crime images)
+    /vendor (composer dependencies)
+    index.php
+    report.php
+    view-reports.php
+    profile.php
+    login.php
+    register.php
+    verify.php
+    api (for AJAX endpoints)
+        report-crime.php
+        get-reports.php
+        send-alerts.php
