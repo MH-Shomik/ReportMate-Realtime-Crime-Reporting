@@ -55,7 +55,7 @@ require_once 'includes/header.php';
 
     <!-- Map Container -->
     <div id="map" class="h-[70vh] w-full rounded-xl shadow-md bg-gray-200">
-        <div class="flex items-center justify-center h-full text-gray-500">Loading map...</div>
+        <div class="flex items-center justify-center h-full text-gray-500">Loading map.....</div>
     </div>
 </div>
 
